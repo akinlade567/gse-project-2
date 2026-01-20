@@ -1,0 +1,24 @@
+DATASET ANALYSIS REPORT
+========================================
+
+NUMERICAL STATISTICS:
+--------------------
+Total data points: 11
+Sum: 911.00
+Average: 82.82
+Minimum: 67.00
+Maximum: 95.00
+Performance Assessment: High Performance
+
+CATEGORICAL ANALYSIS:
+--------------------
+Number of unique categories: 5
+Unique categories:
+  - Art
+  - English
+  - History
+  - Math
+  - Science
+
+========================================
+Report generated successfully.
